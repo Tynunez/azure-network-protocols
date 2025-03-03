@@ -33,7 +33,4 @@ To begin, you will need to create two virtual machines on Azure: one running Lin
 ICMP, or Internet Control Message Protocol, is a network layer protocol used for sending error messages and operational information. The ping command uses ICMP to test connectivity between hosts. By filtering Wireshark to capture only ICMP packets and pinging the private IP address of the Linux machine, you will be able to visually observe the packets in Wireshark in real-time.
 </p>
 <br />
-<p>
-<img src="https://imgur.com/E62Lecx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
