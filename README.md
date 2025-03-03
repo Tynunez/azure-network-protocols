@@ -34,6 +34,6 @@ ICMP, or Internet Control Message Protocol, is a network layer protocol used for
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/IIUShxp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/E62Lecx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
