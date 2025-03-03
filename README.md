@@ -14,7 +14,7 @@ In this tutorial, we analyze network traffic to and from Azure Virtual Machines 
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDP, DHCP, DNS, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDP, DHCP, DNS, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
